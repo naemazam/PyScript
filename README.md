@@ -1,6 +1,25 @@
 # PyScript
 We Took all Of this information from Official Pyscript GitHub Repo. 
 
+
+## Index
+
+
+| video name | link     | language                |
+| :-------- | :------- | :------------------------- |
+| `Overview PyScript` | [Play](https://youtu.be/awOvI0C18Qg) | english |
+| `Complete PyScript Full Course in Bangla (বাংলা)` | [Play](https://youtu.be/9tBKUgQ-IlI) | Bangla |
+| `Overview PyScript` | [play](https://youtu.be/gw4ECUYgoeY) | bangla |
+| `Basic PyScript` | [play](https://youtu.be/V1199m_tpDw) | bangla |
+| `Build a PyScript To-Do webap` | [Play](https://youtu.be/YBnhNdVMpTY) | bangla |
+| `Deploy PyScript project In GitHub` | [Play](https://youtu.be/N3kajZ8MTJw) | Bangla |
+
+
+
+
+
+
+
 you can see our complete tutprial video here. 
 ![](./full.jpg)
 
