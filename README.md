@@ -2,6 +2,7 @@
 We Took all Of this information from Official Pyscript GitHub Repo. 
 
 you can see our complete tutprial video here. 
+![](./full.jpg)
 
 [Play Video](https://www.youtube.com/watch?v=9tBKUgQ-IlI)
 ## What is PyScript
